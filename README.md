@@ -1,8 +1,8 @@
-# Teaching Shit
-hallöle du Affenkopp
+# Teaching Git
+
 
 ## Erste Schritte
 
 
 
-so jetzt mal alle Änderunge
+so jetzt mal alle Änderunge!!!!!!
