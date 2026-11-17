@@ -1,5 +1,5 @@
-# Teaching Git
-
+# Teaching Shit
+hallöle du Affenkopp
 
 ## Erste Schritte
 
